@@ -1,0 +1,160 @@
+body{
+
+}
+
+.container-fluid{
+	background: #DCDCDC;
+
+}
+
+.tituloinstagram{
+	text-align: center;
+	background: #fff;
+	height: 40px;
+	
+}
+
+/* aqui comienza la primera foto*/
+
+
+
+.primerafoto{
+
+	margin-left: 33%;
+	margin-right: 33%;
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 33%;	
+}
+
+.primertitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.primertitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.primertitulo img{
+	max-width: 100%;
+}
+
+.descripcionprimerafoto p{
+	text-align: justify;
+	background: #fff;
+	margin-top: 0px;
+}
+
+
+/* aqui comienza la segunda foto*/
+
+
+.segundafoto{
+	margin-left: 33%;
+	margin-right: 33%;
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 33%;	
+}
+
+.segundotitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.segundotitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.segundotitulo img{
+	max-width: 100%;
+}
+
+.descripcionsegundafoto p{
+	text-align: justify;
+	background: #fff;
+	margin-top: 0px;
+}
+
+/* aqui comienza la tercera foto*/
+
+.tercerafoto{
+	margin-left: 33%;
+	margin-right: 33%;
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 33%;	
+}
+
+.tercertitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.tercertitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.tercertitulo img{
+	max-width: 100%;
+}
+
+.descripciontercerafoto p{
+	text-align: justify;
+	background: #fff;
+	margin-top: 0px;
+}
+
+/* aqui comienza la cuarta foto*/
+
+.cuartafoto{
+	margin-left: 33%;
+	margin-right: 33%;
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 33%;	
+
+
+}
+
+.cuartotitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.cuartotitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.cuartotitulo img{
+	
+	max-width: 100%;
+}
+
+.descripcioncuartafoto p{
+
+	text-align: justify;
+	background: #fff;
+	margin-top: 0px;
+
+
+}
+/*Este es el footer para separar el contenido*/ 
+.footer{
+	background:#DCDCDC ;
+	padding-bottom: 100px;
+	
+}
